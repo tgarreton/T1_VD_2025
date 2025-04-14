@@ -10,7 +10,7 @@ https://www.ine.gob.cl/estadisticas/economia/indices-de-precio-e-inflacion/indic
 **Pobreza multidimensional:** <br>
 https://www.bcn.cl/siit/estadisticasterritoriales/resultados-consulta?id=442261 <br>
 **Años promedio**: <br>
-**https://www.bcn.cl/siit/estadisticasterritoriales/resultados-consulta?id=442260<br>
+https://www.bcn.cl/siit/estadisticasterritoriales/resultados-consulta?id=442260<br>
 
 
 
