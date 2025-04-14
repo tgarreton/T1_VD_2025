@@ -3,8 +3,11 @@ https://si3.bcentral.cl/indicadoressiete/secure/Serie.aspx?gcode=TAS_DES_INE&par
 
 
 
-https://www.bcn.cl/siit/estadisticasterritoriales/resultados-consulta?id=442261 <br>
-https://www.bcn.cl/siit/estadisticasterritoriales/resultados-consulta?id=442260
+
+**Pobreza multidimensional:** https://www.bcn.cl/siit/estadisticasterritoriales/resultados-consulta?id=442261 <br>
+**Años promedio: **https://www.bcn.cl/siit/estadisticasterritoriales/resultados-consulta?id=442260<br>
+
+
 
 
 Datos PIB por región<br>
